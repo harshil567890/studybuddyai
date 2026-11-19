@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-18+-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-4.x-black?logo=express)
@@ -253,9 +252,3 @@ Contributions, issues, and feature requests are welcome!
 3. Commit your changes (`git commit -m "feat: add AmazingFeature"`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
