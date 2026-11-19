@@ -1,0 +1,39 @@
+{
+  "name": "studybuddy-server",
+  "version": "2.0.0",
+  "description": "Unified enterprise backend for StudyBuddy AI - Next-Gen EdTech & AI Learning Platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "studybuddy",
+    "edtech",
+    "lms",
+    "ai-learning",
+    "genai"
+  ],
+  "author": "StudyBuddy Engineering Team",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^1.36.4",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.3",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.1",
+    "otp-generator": "^4.0.1",
+    "pdf-parse": "^1.1.1",
+    "razorpay": "^2.8.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
